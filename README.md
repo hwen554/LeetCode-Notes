@@ -1,5 +1,5 @@
 # LeetCode-Notes
-# Some trash ideas in head
+# Some solutions to help.
 
 # 1.Divide Two Integers
 
